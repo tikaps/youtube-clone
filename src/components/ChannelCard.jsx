@@ -1,11 +1,7 @@
-import React from 'react'
+import React from "react";
 
 const ChannelCard = () => {
-  return (
-    <div>
-      
-    </div>
-  )
-}
+  return (<div>Channel card</div>)
+};
 
-export default ChannelCard
+export default ChannelCard;
